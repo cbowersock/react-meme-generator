@@ -1,3 +1,5 @@
+Simple Meme Generator to practice React and API calls
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
